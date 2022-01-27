@@ -1,6 +1,6 @@
 ### Olá sou MathLopes29 👋
-#### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
-#### Espero que gostem dos conteúdos 😉
+#### Criei este perfil para publicar meus projetos e meus estudos.
+#### Espero que gostem 😉
 ####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
 ### <a href="mailito:mat.lopes2907@gmail.com"  target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
 
