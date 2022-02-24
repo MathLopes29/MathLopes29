@@ -1,10 +1,10 @@
 ### Olá sou MathLopes29 👋
 #### Criei este perfil para publicar meus projetos e meus estudos.
-#### Espero que gostem 😉
-####  Se quiser entrar em contato, me manda um e-mail e vamos formar uma equipe!
+#### 🔭 No momento estou procurando meu primeiro emprego! 
 
 - 🎒 Estudando Desenvolvimento de Software (FATEC) 
 - 📫 Contate-me no email: mat.lopes2907@gmail.com
+
 
     <div align="center">
        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MathLopes29&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -22,8 +22,9 @@
     
   <div>
   
-      <a href= "https://www.instagram.com/math_lopes29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href= "https:github.com/MathLopes29" target= "_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_black"></a> 
+    <a href= "https://www.instagram.com/math_lopes29/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href= "https://github.com/MathLopes29" target= "_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_black"></a> 
      <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      
   </div>
  
