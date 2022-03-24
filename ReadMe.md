@@ -4,11 +4,11 @@
 - 🎒 Studying Software Development in FATEC
 - 📫 Contact me on email: mat.lopes2907@gmail.com
 
-<div align="center">
+<div>
        <a href= "https://github.com/MathLopes29">
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathLopes29&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLopes29&layout=compact&langs_count=7&theme=gotham"/>
-       <img align="right" width="120" height="120" scr="https://media.giphy.com/media/IpKxfPy33hMRy/giphy.gif">    
+       <img align="right" width="180" height="180" scr="https://giphy.com/gifs/fullmetal-alchemist-edward-elric-ispEc1253326c">    
 </div>
 <div style="display: inline_block"><br>
        <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
