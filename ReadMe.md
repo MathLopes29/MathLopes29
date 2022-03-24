@@ -1,9 +1,8 @@
 ### Olá sou MathLopes29 👋
 #### Criei este perfil para publicar meus projetos e meus estudos.
-#### 🔭 No momento estou procurando meu primeiro emprego! 
 
-- 🎒 Estudando Desenvolvimento de Software 
-- 📫 Contate-me no email: mat.lopes2907@gmail.com
+- 🎒 Studying Software Development
+- 📫 Contact me on email: mat.lopes2907@gmail.com
 
 
     <div align="center">
