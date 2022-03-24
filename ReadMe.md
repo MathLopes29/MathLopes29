@@ -1,7 +1,7 @@
-### Olá sou MathLopes29 👋
-#### Criei este perfil para publicar meus projetos e meus estudos.
+### Hey, what's up? My name is Matheus 👋
 
-- 🎒 Studying Software Development
+- 🎉 18 years old
+- 🎒 Studying Software Development in FATEC
 - 📫 Contact me on email: mat.lopes2907@gmail.com
 
 
