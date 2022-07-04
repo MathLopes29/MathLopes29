@@ -1,8 +1,8 @@
-### Hey, what's up? My name is Matheus 👋
+### Bem vindo! Me chamo Matheus 👋
 
-- 🎉 18 years old
-- 🎒 Studying Software Development in FATEC
-- 📫 Contact me on email: mat.lopes2907@gmail.com
+- 🎉 18 Anos
+- 🎒 Estudante na FATEC - Fututo Programador Full Stack
+- 📫 Email: mat.lopes2907@gmail.com
 
 <div>
        <a href= "https://github.com/MathLopes29">
