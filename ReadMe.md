@@ -1,5 +1,5 @@
-<h3 align="center"> Bem vindo! Me chamo Matheus 👋</h2>
-<h2 align="center"> Futuro Programador Web e Full Stack ⚡</h1>
+<h2 align="center"> Bem vindo! Me chamo Matheus 👋</h2>
+<h3 align="center"> Futuro Programador Web e Full Stack ⚡</h3>
 
 - 🎉 18 Anos
 - 🎒 Estudante na FATEC - Fututo Programador Full Stack
