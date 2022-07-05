@@ -4,7 +4,7 @@
 - 🎉 18 Anos
 - 🎒 Estudante na FATEC - Fututo Programador Full Stack
 - 📫 Email: mat.lopes2907@gmail.com
-- 😎Arquivos Pessoais da FATEC e Projetos próprios
+- 😎 Arquivos Pessoais da FATEC e Projetos próprios
 
 <div align="center">
 <a href= "https://github.com/MathLopes29">
