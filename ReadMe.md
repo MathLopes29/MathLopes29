@@ -1,10 +1,16 @@
 <h1 align="center"> Bem vindo! Me chamo Matheus 👋</h1>
 <h3 align="center"> Futuro Programador Web e Full Stack ⚡</h3>
 
-- 🎉 19 Anos
-- 🎒 Estudante na FATEC - Fututo Programador Full Stack
-- 📫 Email: mat.lopes2907@gmail.com
-- 😎 Arquivos Pessoais da FATEC e Projetos próprios
+<div align="center">
+<img src="https://image.myanimelist.net/ui/wxdh0TSzH0H6x_IS3tHqnHXhUfK9UNO5g8rNeK_a4WrCCJzNSVlcdYhRZ6EDNsESPsRFUC7tbiapgGf-Oo6Ceg" height="300" wheight="150" border="0" alt="WallPaper">
+</div>
+
+<div align="center">
+<p> - 🎉 19 Anos </p>
+<p> - 🎒 Estudante na FATEC - Fututo Programador Full Stack </p>
+<p> - 📫 Email: mat.lopes2907@gmail.com </p>
+<p> - 😎 Arquivos Pessoais da FATEC e Projetos próprios
+</div>
 
 <div align="center">
 <a href= "https://github.com/MathLopes29">
@@ -23,10 +29,7 @@
 <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
     
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
     
 <div align="center">
 <a href="https://www.instagram.com/math_lopes29/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
