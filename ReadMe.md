@@ -2,14 +2,14 @@
 <h3 align="center"> Futuro Programador Web e Full Stack ⚡</h3>
 
 <div align="center">
-<img src="https://image.myanimelist.net/ui/wxdh0TSzH0H6x_IS3tHqnHXhUfK9UNO5g8rNeK_a4WrCCJzNSVlcdYhRZ6EDNsESPsRFUC7tbiapgGf-Oo6Ceg" height="300" wheight="150" border="0" alt="WallPaper">
+<img src="https://cutewallpaper.org/27/can-you-use-a-gif-as-wallpaper-pixel/kirokaze.gif" height="300" wheight="150" border="0" alt="WallPaper">
 </div>
 
 <div align="center">
-<p> - 🎉 19 Anos </p>
-<p> - 🎒 Estudante na FATEC - Fututo Programador Full Stack </p>
-<p> - 📫 Email: mat.lopes2907@gmail.com </p>
-<p> - 😎 Arquivos Pessoais da FATEC e Projetos próprios
+<p> 🎉 19 Anos </p>
+<p> 🎒 Estudante na FATEC - Fututo Programador Full Stack </p>
+<p> 📫 Email: mat.lopes2907@gmail.com </p>
+<p> 😎 Arquivos Pessoais da FATEC e Projetos próprios
 </div>
 
 <div align="center">
