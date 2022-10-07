@@ -1,4 +1,4 @@
-<h1 align="center"> Bem vindo! Me chamo Matheus 👋</h1>
+<h1 align="center"> Bem vindo! Me chamo Matheus 🎓</h1>
 <h3 align="center"> Futuro Programador Web e Full Stack ⚡</h3>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <p> 🎉 19 Anos </p>
 <p> 🎒 Estudante na FATEC - Fututo Programador Full Stack </p>
 <p> 📫 Email: mat.lopes2907@gmail.com </p>
-<p> 😎 Arquivos Pessoais da FATEC e Projetos próprios
+<p> 💻 Arquivos Pessoais da FATEC e Projetos próprios
 </div>
 
 <div align="center">
