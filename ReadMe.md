@@ -1,5 +1,5 @@
 <h1 align="center"> Bem vindo! Me chamo Matheus 🎓</h1>
-<h3 align="center"> Futuro Programador Web e Full Stack ⚡</h3>
+<h3 align="center"> Futuro Programador Full Stack ⚡</h3>
 
 <div align="center">
 <img src="https://cutewallpaper.org/27/can-you-use-a-gif-as-wallpaper-pixel/kirokaze.gif" height="300" wheight="150" border="0" alt="WallPaper">
