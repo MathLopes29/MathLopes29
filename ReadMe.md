@@ -1,8 +1,8 @@
-<h1 align="center"> Bem vindo! Me chamo Matheus 🎓</h1>
+<h2 align="center"> Bem vindo! Me chamo Matheus 🎓</h2>
 <h3 align="center"> Futuro Programador Full Stack ⚡</h3>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" height="500" wheight="250" border="0" alt="WallPaper">
+<img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" height="400" wheight="200" border="0" alt="WallPaper">
 </div>
 
 <div align="center">
