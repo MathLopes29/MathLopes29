@@ -14,10 +14,10 @@
 
 <div align="center">
 <a href= "https://github.com/MathLopes29">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathLopes29&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLopes29&layout=compact&langs_count=7&theme=gotham"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathLopes29&show_icons=true&theme=codeSTACKr"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLopes29&layout=compact&langs_count=7&theme=codeSTACKr"/> 
 </div>
-       
+  
 <div style="display:inline_block" align="center"><br>
 <img align="center" alt="Math-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
