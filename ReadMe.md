@@ -15,7 +15,12 @@
 <div align="center">
 <a href= "https://github.com/MathLopes29">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathLopes29&show_icons=true&theme=react"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLopes29&layout=compact&langs_count=10&&show_icons=true&theme=react"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLopes29&layout=compact&langs_count=10&&show_icons=true&theme=react"/>
+<br><hr><br>
+<h2> Repositórios </h2>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Projeto-Foot-Future&langs_count=7&&show_icons=true&theme=react"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Back_End_1&langs_count=7&&show_icons=true&theme=react"/>
+
 </div>
   
 <div style="display:inline_block" align="center"><br>
