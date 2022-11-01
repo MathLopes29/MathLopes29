@@ -14,8 +14,8 @@
 
 <div align="center">
 <a href= "https://github.com/MathLopes29">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathLopes29&show_icons=true&theme=codeSTACKr"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLopes29&layout=compact&langs_count=7&theme=codeSTACKr"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MathLopes29&show_icons=true&theme=react"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLopes29&layout=compact&langs_count=10&&show_icons=true&theme=react"/> 
 </div>
   
 <div style="display:inline_block" align="center"><br>
