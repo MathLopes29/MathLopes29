@@ -10,7 +10,7 @@
 <p> 🎒 Estudante na FATEC - Fututo Programador Full Stack </p>
 <p> 📫 Email: mat.lopes2907@gmail.com </p>
 <p> 💻 Arquivos Pessoais da FATEC e Projetos Próprios </p>
-</div>
+</div><hr>
 
 <div align="center">
 <a href= "https://github.com/MathLopes29">
