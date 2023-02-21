@@ -1,5 +1,5 @@
 <h2 align="center"> Bem vindo! Me chamo Matheus 🎓</h2>
-<h3 align="center"> Futuro Programador Full Stack ⚡</h3>
+<h3 align="center"> Futuro Desenvolvedor ⚡</h3>
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" height="400" wheight="200" border="0" alt="WallPaper">
@@ -23,8 +23,6 @@
 <a href="https://github.com/MathLopes29/Liloca-Fest"><img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Liloca-Fest&langs_count=7&&show_icons=true&theme=react"/></a>
 <a href="https://github.com/MathLopes29/Tech-Entregas"><img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Tech-Entregas&langs_count=7&&show_icons=true&theme=react"/></a>
 </div>
-  
-  
   
 <div style="display:inline_block" align="center"><br>
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
