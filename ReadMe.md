@@ -21,7 +21,7 @@
 <div align="center">
 <h4> Repositórios mais Novos! </h4>
 <a href= "https://github.com/MathLopes29/Alura_PostgreSQL"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Alura_PostgreSQL&langs_count=7&&show_icons=true&theme=react"/></a>
-<a href= "https://github.com/MathLopes29/Udemy_Banco-de-Dados"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Udemy_Banco-de-Dados&langs_count=7&&show_icons=true&theme=react"/></a>
+
 </div>
   
 <div style="display:inline_block" align="center"><br>
