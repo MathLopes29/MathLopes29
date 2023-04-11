@@ -22,6 +22,8 @@
 <h4> Repositórios mais Novos! </h4>
 <a href= "https://github.com/MathLopes29/Alura_PostgreSQL"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Alura_PostgreSQL&langs_count=7&&show_icons=true&theme=react"/></a>
 <a href= "https://github.com/MathLopes29/Estrutura_de_Dados"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Estrutura_de_Dados&langs_count=7&&show_icons=true&theme=react"/></a>
+<a href= "https://github.com/MathLopes29/Java_Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Java_Faker&langs_count=7&&show_icons=true&theme=react"/></a>
+<a href= "https://github.com/MathLopes29/Projeto_Datahouse-Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=MathLopes29&repo=Projeto_Datahouse-Faker&langs_count=7&&show_icons=true&theme=react"/></a>  
 </div>
   
 <div style="display:inline_block" align="center"><br>
