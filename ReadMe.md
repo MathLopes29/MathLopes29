@@ -10,6 +10,7 @@
 <p> 🎒 Estudante na FATEC - Fututo Programador Full Stack </p>
 <p> 📫 Email: mat.lopes2907@gmail.com </p>
 <p> 💻 Arquivos Pessoais da FATEC e Projetos Próprios </p>
+<a href="https://www.linkedin.com/in/matheus-lopes-lourenço-6a627b231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
