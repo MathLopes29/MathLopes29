@@ -11,6 +11,20 @@
 <p> 📫 Email: mat.lopes2907@gmail.com </p>
 <p> 💻 Arquivos Pessoais da FATEC e Projetos Próprios </p>
 </div>
+
+<div align="center">
+  <a href="https://github.com/bertdev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathlopes29&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathlopes29&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+<div align="center">
+<h4> Repositórios mais Novos! </h4>
+<a href= "https://github.com/MathLopes29/Alura_PostgreSQL"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Alura_PostgreSQL&langs_count=7&&show_icons=true&theme=react"/></a>
+<a href= "https://github.com/MathLopes29/Estrutura_de_Dados"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Estrutura_de_Dados&langs_count=7&&show_icons=true&theme=react"/></a>
+<a href= "https://github.com/MathLopes29/Java_Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Java_Faker&langs_count=7&&show_icons=true&theme=react"/></a>
+<a href= "https://github.com/MathLopes29/Projeto_Datahouse-Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Projeto_Datahouse-Faker&langs_count=7&&show_icons=true&theme=react"/></a>  
+</div>
   
 <div style="display:inline_block" align="center"><br>
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
