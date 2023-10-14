@@ -11,11 +11,11 @@
 <p> 📫 Email: mat.lopes2907@gmail.com </p>
 <p> 💻 Arquivos Pessoais da FATEC e Projetos Próprios </p>
 <a href="https://www.linkedin.com/in/matheus-lopes-lourenço-6a627b231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div><br><br><br>
 
 <div align="center">
-  <a href="https://github.com/bertdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathlopes29&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <a href="https://github.com/MathLopes29">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mathlopes29&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathlopes29&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
