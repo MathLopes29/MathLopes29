@@ -34,10 +34,10 @@
 
 <div align="center">
 <h4> Repositórios mais Novos! </h4>
-  <a href= "https://github.com/MathLopes29/Alura_PostgreSQL"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Alura_PostgreSQL&langs_count=7&&show_icons=true&theme=dark"/></a>
+  <a href= "https://github.com/MathLopes29/AutoRating-Site"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=AutoRating-Site&langs_count=7&&show_icons=true&theme=dark"/></a>
   <a href= "https://github.com/MathLopes29/Alexa_RadioSkill"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Alexa_RadioSkill&langs_count=7&&show_icons=true&theme=dark"/></a>
   <a href= "https://github.com/MathLopes29/Java_Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Java_Faker&langs_count=7&&show_icons=true&theme=dark"/></a>
   <a href= "https://github.com/MathLopes29/Projeto_Datahouse-Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Projeto_Datahouse-Faker&langs_count=7&&show_icons=true&theme=dark"/></a>  
   <a href= "https://github.com/MathLopes29/Python"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Python&langs_count=7&&show_icons=true&theme=dark"/></a>    
-  <a href= "https://github.com/MathLopes29/ProjetoWeb2"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=ProjetoWeb2&langs_count=7&&show_icons=true&theme=dark"/></a>      
+  <a href= "https://github.com/MathLopes29/AutoRating-Mobile"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=AutoRating-Mobile&langs_count=7&&show_icons=true&theme=dark"/></a>      
 </div>
