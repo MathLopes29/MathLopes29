@@ -17,7 +17,7 @@
 <div style="display:inline_block" align="center"><br>
   <h4> Linguagens e Plataformas </h4>
   <img align="center" alt="Power BI" height="30" width="40" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">
-  <img align="center" alt="Colab" height="30" width="100" src="https://colab.google/static/images/icons/colab.png">
+  <img align="center" alt="Colab" height="20" width="80" src="https://colab.google/static/images/icons/colab.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
