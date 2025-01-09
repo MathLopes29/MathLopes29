@@ -7,7 +7,7 @@
 
 <div align="center">
   <p> 🎉 21 Anos </p>
-  <p> 🎒 Estudante na FATEC </p>
+  <p> 🎒 Formado na FATEC </p>
   <p> 📫 Email: mat.lopes2907@gmail.com </p>
   <p> 💻 Arquivos Pessoais da FATEC e Projetos Próprios </p>
   <a href="https://www.linkedin.com/in/matheus-lopes-lourenço-6a627b231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -35,9 +35,6 @@
 <div align="center">
 <h4> Repositórios mais Novos! </h4>
   <a href= "https://github.com/MathLopes29/Python"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Python&langs_count=7&&show_icons=true&theme=dark"/></a>
-  <a href= "https://github.com/MathLopes29/AutoRating-Site"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=AutoRating-Site&langs_count=7&&show_icons=true&theme=dark"/></a>
-  <a href= "https://github.com/MathLopes29/Alexa_RadioSkill"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Alexa_RadioSkill&langs_count=7&&show_icons=true&theme=dark"/></a>
   <a href= "https://github.com/MathLopes29/Java_Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Java_Faker&langs_count=7&&show_icons=true&theme=dark"/></a>
-  <a href= "https://github.com/MathLopes29/Projeto_Datahouse-Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Projeto_Datahouse-Faker&langs_count=7&&show_icons=true&theme=dark"/></a>     
-  <a href= "https://github.com/MathLopes29/AutoRating-Mobile"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=AutoRating-Mobile&langs_count=7&&show_icons=true&theme=dark"/></a>      
+  <a href= "https://github.com/MathLopes29/Projeto_Datahouse-Faker"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mathlopes29&repo=Projeto_Datahouse-Faker&langs_count=7&&show_icons=true&theme=dark"/></a>        
 </div>
