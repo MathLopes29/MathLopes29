@@ -6,10 +6,10 @@
 </div><hr>
 
 <div align="center">
-  <p> 🎉 21 Anos </p>
-  <p> 🎒 Formado na FATEC </p>
+  <p> 🎉 22 Anos </p>
+  <p> 🎒 Formado na FATEC Zona Sul </p>
   <p> 📫 Email: mat.lopes2907@gmail.com </p>
-  <p> 💻 Arquivos Pessoais da FATEC e Projetos Próprios </p>
+  <p> 💻 Arquivos Pessoais de Cursos e Aprendizados </p>
   <a href="https://www.linkedin.com/in/matheus-lopes-lourenço-6a627b231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
