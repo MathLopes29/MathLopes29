@@ -1,12 +1,12 @@
 <h2 align="center"> Bem vindo! Me chamo Matheus 🎓</h2>
-<h3 align="center"> Atualmente sou Analista de BI Junior - Futuramente me tornarei Data Science ⚡</h3>
+<h3 align="center"> Atualmente sou Analista de BI Junior - Cursando Ciência de Dados na PUC ⚡</h3>
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif"/>
 </div><hr>
 
 <div align="center">
-  <p> 🎉 22 Anos </p>
+  <p> 🎉 23 Anos </p>
   <p> 🎒 Formado na FATEC Zona Sul </p>
   <p> 📫 Email: mat.lopes2907@gmail.com </p>
   <p> 💻 Arquivos Pessoais de Cursos e Aprendizados </p>
